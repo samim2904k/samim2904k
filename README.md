@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | Python & MERN Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps;Backend+%26+System+Design+Focused;AI+%26+Automation+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=500\&lines=Building+Scalable+Web+Apps;Backend+%26+System+Design+Focused;AI+%26+Automation+Explorer)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,26 +12,37 @@
 
 ## 🚀 About Me
 
-- Full Stack Developer with focus on scalable backend systems  
-- Experienced in Python, Django, FastAPI, MERN Stack  
-- Interested in AI, Automation, DevOps, and System Design  
-- Building modern SaaS and AI-powered applications  
+* Full Stack Developer focused on scalable backend systems
+* Experienced in Python, Django, FastAPI, MERN Stack
+* Interested in AI, Automation, DevOps, and System Design
+* Building modern SaaS and AI-powered applications
 
 ---
 
 ## 💻 Tech Stack
 
-**Frontend:**  
-React • Next.js • Tailwind • TypeScript  
+### Frontend
 
-**Backend:**  
-Python • Django • FastAPI • Node.js • Express • Laravel  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-**Database:**  
-PostgreSQL • MySQL • MongoDB • Redis  
+### Backend
 
-**DevOps / Cloud:**  
-Docker • Nginx • DigitalOcean • Cloudflare • Vercel  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+
+### Database & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
@@ -39,9 +50,9 @@ Docker • Nginx • DigitalOcean • Cloudflare • Vercel
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=samim2904k&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=samim2904k\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samim2904k&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samim2904k\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 </div>
 
@@ -51,9 +62,9 @@ Docker • Nginx • DigitalOcean • Cloudflare • Vercel
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/samim-khan-252a4b244) •
-[Email](mailto:samim2904k@gmail.com) •
-[Instagram](https://instagram.com/samim2904k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samim-khan-252a4b244)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:samim2904k@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/samim2904k)
 
 </div>
 
@@ -61,6 +72,6 @@ Docker • Nginx • DigitalOcean • Cloudflare • Vercel
 
 <div align="center">
 
-⭐ Always building, learning, and shipping new things.
+⭐ Always building, learning, and shipping.
 
 </div>
