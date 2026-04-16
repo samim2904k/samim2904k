@@ -1,6 +1,3 @@
-I'll help you create a more modern, visually appealing README with better stats integration. Here's an enhanced version:
-
-```markdown
 <div align="center">
   
 # 👋 Hi, I'm Samim Khan
@@ -15,7 +12,7 @@ I'll help you create a more modern, visually appealing README with better stats 
 
 ## 🚀 About Me
 
-```typescript
+
 const samim = {
     location: "Bhubaneswar, Odisha 🇮🇳",
     current_role: "Full-Stack Developer @ Private Company (Bangalore)",
@@ -26,7 +23,7 @@ const samim = {
     learning: ["Advanced System Design", "Kubernetes", "LangChain", "RAG Pipelines"],
     ask_me_about: ["Full-Stack Dev", "REST/GraphQL APIs", "Real-time Apps", "Backend Optimization"],
 };
-```
+
 
 ---
 
@@ -126,8 +123,6 @@ const samim = {
 
 ## 💡 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
@@ -149,5 +144,3 @@ Freelance Projects | Full-time Opportunities | Technical Collaborations
 
 </div>
 
-<!-- Crafted with 💙 by Samim Khan -->
-```
