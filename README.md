@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-
+```typescript
 const samim = {
     location: "Bhubaneswar, Odisha 🇮🇳",
     current_role: "Full-Stack Developer @ Private Company (Bangalore)",
@@ -23,7 +23,7 @@ const samim = {
     learning: ["Advanced System Design", "Kubernetes", "LangChain", "RAG Pipelines"],
     ask_me_about: ["Full-Stack Dev", "REST/GraphQL APIs", "Real-time Apps", "Backend Optimization"],
 };
-
+```
 
 ---
 
