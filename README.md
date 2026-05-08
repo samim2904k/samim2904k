@@ -35,6 +35,10 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge\&logo=celery\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge\&logo=chainlink\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge\&logo=graphql\&logoColor=white)
+
 
 ### Database & DevOps
 
@@ -43,16 +47,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samim2904k\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
 
 ---
 
